@@ -14,7 +14,7 @@ import java.util.List;
 public class TestVod {
 
     public static void main(String[] args) {
-        String accessKeyId = "LTAI5tLxg1DmXeT2EWKjGuKQ";
+        String accessKeyId = "";
         String accessKeySecret = "PERU6oktnNZ3N7WYkcJZDeOhu8wCr7";
 
         String title = "6 - What If I Want to Move Faster - upload by sdk";   //上传之后文件名称
